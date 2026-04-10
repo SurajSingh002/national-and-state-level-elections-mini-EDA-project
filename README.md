@@ -60,10 +60,8 @@ This project focuses on a comprehensive Exploratory Data Analysis (EDA) of elect
 
 ## 📈 Tools & Technologies
 - Python (Pandas, NumPy)
-- Visualization (Matplotlib, Seaborn, Plotly)
-- Geospatial (Geopandas, Folium)
+- Visualization (Matplotlib, Seaborn)
 - Jupyter Notebook
-
 
 ## 💡 Key Insights
 - Efficiency Gap: Certain parties convert lower vote shares into more seats via regional focus
